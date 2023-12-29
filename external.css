@@ -1,0 +1,72 @@
+body{
+    background-color:lightgray ;
+}
+.h6{
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+    padding:20px;
+    
+}
+
+.box{
+    display: flex;
+  
+}
+
+.main{
+    position: relative;
+    top:60px;
+    left :50px;
+    margin:20px;
+    border-radius: 15px;
+
+}
+.mai{
+    position: relative;
+    top:60px;
+    left :50px;
+    margin:20px;
+    border-radius: 15px;
+
+}
+.mais{
+    position: relative;
+    top:60px;
+    left :40px;
+    margin:20px;
+    border-radius: 15px;
+
+}
+
+.main1{
+    
+    position: relative;
+    top:50px;
+    margin-left: 400px;
+    padding-left: 500px;
+    background-color: black;
+    
+
+}
+.hight{
+    margin: 20px;
+    border-radius: 20px;
+}
+
+    .main3{
+    
+        background-color: black;
+        position: absolute;
+        top: 350px;
+        left: 310px;
+        border-radius: 20px;
+    }
+  
+.h5{
+    position:absolute;
+    left:30px;
+    top:10px;
+    color: white;
+}
